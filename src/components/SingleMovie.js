@@ -3,7 +3,7 @@ import './Singlemovie.css'
 // import Carousel from 'react-bootstrap/Carousel'
 
 import Card from 'react-bootstrap/Card'
-import data from './movies.json'
+import data from './Movies.json'
 import data1 from './SingleMovie.json'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'

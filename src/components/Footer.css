@@ -1,0 +1,31 @@
+.edxCQ {
+    display: flex;
+    width: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 125px;
+    background-color: rgb(51, 51, 56);;
+}
+
+.gWMfub {
+    flex: 1 1 0%;
+    height: 1px;
+    background: rgb(93, 93, 95);
+}
+
+.kolqrL {
+    text-align: center;
+}
+
+.hbTGpi {
+    display: inline-block;
+    margin-right: 10px;
+    width: 37px;
+    height: 37px;
+}
+
+.hbTGpi svg {
+    fill: rgb(93, 93, 95);
+}

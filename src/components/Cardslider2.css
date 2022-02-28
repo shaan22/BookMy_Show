@@ -1,0 +1,17 @@
+
+#grp__Cards{
+    padding: 3%;
+    text-transform: bold;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+#crd_1{
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.ImageWrapper{
+    padding: 4px;
+    margin-top:7%;
+}

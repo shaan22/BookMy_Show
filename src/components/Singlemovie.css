@@ -1,0 +1,78 @@
+.img_wal{
+width: 100%;
+background-color:   rgb(34, 34, 34);
+}
+
+.Cards__container{
+    padding: 1.8em;
+  
+  }
+  
+  .Cards{
+    padding: 2em;
+    opacity: 0.9;
+    margin-top: -42rem;
+    background-image: linear-gradient(to right,
+    rgb(34, 34, 34),
+    transparent,
+    rgb(34, 34, 34));
+    height: 30rem;
+    color: white;    
+  }
+  
+  .Txt__container{
+    font-size: 34px;
+    margin-left: 40px;
+    margin-top: 3em;
+    font-weight: 700
+  } 
+  
+  .img_cont{
+    display: none;
+  
+  }
+  
+
+  @media (min-width:1400px) {
+    
+    .img_cont{
+      display: block;
+    }
+
+    .img_wall_cont {
+        min-height: 480px;
+        width: 129%;  
+        padding: 32px 0px;
+        -webkit-box-align: center;
+        align-items: center;
+        display: flex;
+        background-repeat: no-repeat;
+        background-position: right center;
+        background-color: rgb(34, 34, 34);
+        position: relative;
+        margin: 0px auto;
+        max-width: 1519px;
+        background-image: linear-gradient(
+            90deg, rgb(34, 34, 34) 24.97%, rgb(34, 34, 34) 38.3%, rgba(34, 34, 34, 0.04) 97.47%, rgb(34, 34, 34) 100%);  
+            margin-left: -7em;  
+        }
+
+        .img{
+          margin-left: 7rem;
+        }
+        
+        .about_m{
+          font-weight: 700;
+          font-size: 2em;
+          margin-top: 5em;
+          text-align: left;
+        }
+
+        .about_movie{
+          text-align:start;
+          font-size: 24px;
+        }
+  }
+
+  
+  

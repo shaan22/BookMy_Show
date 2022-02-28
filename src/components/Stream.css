@@ -1,0 +1,19 @@
+#grp__Cards3{
+    
+    padding: 7%;
+    text-transform: bold;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+#crd_1{
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.hero_text{
+    padding: 10px;
+    color: black;
+    
+}
+

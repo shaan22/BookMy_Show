@@ -1,0 +1,29 @@
+.Cards__container{
+  padding: 1.8em;
+
+}
+
+.Cards1{
+  padding: 2em;
+  
+}
+
+.Txt__container{
+  font-size: 34px;
+  margin-left: 40px;
+  margin-top: 3em;
+  font-weight: 700
+}
+
+.img_cont{
+  display: none;
+
+}
+
+@media (min-width:1400px) {
+  
+  .img_cont{
+    display: block;
+  }
+}
+
